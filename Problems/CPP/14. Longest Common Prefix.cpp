@@ -1,3 +1,4 @@
+/*
 Write a function to find the longest common prefix string amongst an array of strings.
 
 If there is no common prefix, return an empty string "".
@@ -21,8 +22,7 @@ Constraints:
 0 <= strs[i].length <= 200
 strs[i] consists of only lowercase English letters.
 
-===========================================================================
-
+*/
 
 class Solution {
 public:

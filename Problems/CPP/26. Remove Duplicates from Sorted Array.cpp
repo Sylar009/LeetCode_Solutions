@@ -42,7 +42,7 @@ Constraints:
 -100 <= nums[i] <= 100
 nums is sorted in non-decreasing order.
 */
-
+#include"common_includes.h"
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {

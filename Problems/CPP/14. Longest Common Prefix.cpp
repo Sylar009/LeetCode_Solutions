@@ -23,7 +23,7 @@ Constraints:
 strs[i] consists of only lowercase English letters.
 
 */
-
+#include"common_includes.h"
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {

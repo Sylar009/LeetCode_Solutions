@@ -46,7 +46,7 @@ Constraints:
 0 <= nums[i] <= 50
 0 <= val <= 100
 */
-
+#include"common_includes.h"
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {

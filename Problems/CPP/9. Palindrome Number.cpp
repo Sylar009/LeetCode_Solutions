@@ -32,6 +32,8 @@ Follow up: Could you solve it without converting the integer to a string?
 
 */
 
+#include"common_includes.h"
+
 class Solution {
 public:
     bool isPalindrome(int x) {

@@ -60,8 +60,8 @@ We can simulate the diagonal sorting process as described in the problem.
 
 First, we sort the diagonals of the lower-left triangle, including the main diagonal, in non-increasing order. Then, we sort the diagonals of the upper-right triangle in non-decreasing order. Finally, we return the sorted matrix.
 
-The time complexity is 
-, and the space complexity is 
+The time complexity is O(n2logn)
+, and the space complexity is O(n)
 . Here, 
  is the size of the matrix.
 

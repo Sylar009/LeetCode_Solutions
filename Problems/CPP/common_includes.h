@@ -4,5 +4,6 @@
 #include <algorithm>
 #include <functional>
 #include <queue>
+#include <numeric>
 
 using namespace std;
